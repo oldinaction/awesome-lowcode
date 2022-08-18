@@ -148,36 +148,36 @@
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
 * [阿里-飞冰](https://ice.work/)
-* [阿里-formilyjs](https://formilyjs.org/)
+* [阿里-formilyjs](https://formilyjs.org/) 【基于react,支持vue ant/ele; 仅表单拖拽排版; 支持自定义组件】
   * [MegaLayout - 下一代Formily表单布局解决方案](https://zhuanlan.zhihu.com/p/133906363)
   * https://github.com/alibaba/designable
-* [阿里-gaea-editor](https://github.com/ascoders/gaea-editor)
+* [阿里-gaea-editor](https://github.com/ascoders/gaea-editor) 【**AA** 基于react; 简单的可视化编辑器模板，组件基本需要自定义】
   * [可视化在线编辑器架构设计](https://juejin.cn/post/6844903455417434119)
-* [阿里-sula](https://github.com/umijs/sula)
-* [视搭-视频可视化搭建](https://github.com/tnfe/shida)
-* https://github.com/alibaba/lowcode-engine
-* [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)
-* [pager](https://github.com/laispace/pager)
-* [运满满-码良](https://github.com/ymm-tech/gods-pen)
-  * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
-* [X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue)
-* [Vue-Layout](https://github.com/jaweii/Vue-Layout)
-* [antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor)
-* [pipeline-editor](https://github.com/page-pipepline/pipeline-editor)
+* [阿里-sula](https://github.com/umijs/sula) 【**AAAA** 前端中后台插件化配置框架；基于umijs(基于react)可扩展的企业级前端应用框架; 包含前后端】
+* [视搭-视频可视化搭建](https://github.com/tnfe/shida) 【通过简单的拖拽方式快速生产一个短视频；基于quark-h5夸克H5拖拽】
+* https://github.com/alibaba/lowcode-engine 【基于react; 可视化编辑】
+* [blockVisualEditor](https://github.com/sww1230/blockVisualEditor) 【~~star太少~~】
+* [pager](https://github.com/laispace/pager) 【~~star太少~~】
+* [运满满-码良](https://github.com/ymm-tech/gods-pen) 【~~太乱~~】
+  * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5) 
+* [X-Page-Editor](https://github.com/OXOYO/X-Page-Editor-Vue) 【~~拖拽效果不好~~】
+* [Vue-Layout](https://github.com/jaweii/Vue-Layout) 【~~拖拽效果不好~~】
+* [antd-visual-editor](https://github.com/xinyu198736/antd-visual-editor) 【~~拖拽效果不好~~】
+* [pipeline-editor](https://github.com/page-pipepline/pipeline-editor) 【~~拖拽效果不好~~】
   * [【第1524期】页面可视化搭建工具技术要点](https://mp.weixin.qq.com/s/90JJAFhGokKmicOQZxdAGg)
-* [panel-magic](https://ricbet.github.io/panel-magic/)
+* [panel-magic](https://ricbet.github.io/panel-magic/) 【更像是UI在线设计】
   * [基于 Angular 的小程序可视化编辑器 Panel-Magic 的实现解析](https://zhuanlan.zhihu.com/p/101677992)
-* [百度外卖-blocks](https://github.com/Eyot424/blocks)
+* [百度外卖-blocks](https://github.com/Eyot424/blocks) 【~~star太少~~】
   * [百度外卖如何做到前端开发配置化](https://juejin.im/post/59536bad6fb9a06ba024d96d)
-* [Esview ](https://github.com/furioussoul/esview)
-* [gen](https://github.com/genany/gen)
-* [bee gen pro](https://gocn.vip/topics/10724)
-* [百度-amis](https://github.com/baidu/amis)
+* [Esview ](https://github.com/furioussoul/esview) 【~~star太少~~】
+* [gen](https://github.com/genany/gen) 【根据接口生成页面】
+* [bee gen pro](https://gocn.vip/topics/10724) 【~~文档太少~~】
+* [百度-amis](https://github.com/baidu/amis) 【**AAA**】
   * [Ovine](https://github.com/CareyToboo/ovine)：基于 amis 补全了路由、权限相关的组件
   * [爱速搭](https://suda.baidu.com/)
-* [唯品会-ams](https://github.com/vipshop/ams)
-* [vue-admin](https://github.com/jiangshanmeta/vue-admin)
-* [鲁班 H5](https://github.com/ly525/luban-h5)
+* [唯品会-ams](https://github.com/vipshop/ams) 【**AAAA** 基于vue+ele+json配置一整套管理系统前端界面】
+* [vue-admin](https://github.com/jiangshanmeta/vue-admin) 【包含前后端，略复杂】
+* [鲁班 H5](https://github.com/ly525/luban-h5) 【**AAAA** H5页面大家】
 * [华炎魔方](https://github.com/steedos/steedos-platform/)
   * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview) 
 * [h5-factory](https://github.com/yangyuji/h5-factory)
