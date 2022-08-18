@@ -172,45 +172,45 @@
 * ~~[Esview ](https://github.com/furioussoul/esview) 【star太少】~~
 * [gen](https://github.com/genany/gen) 【根据接口生成页面】
 * ~~[bee gen pro](https://gocn.vip/topics/10724) 【文档太少】~~
-* [百度-amis](https://github.com/baidu/amis) 【**AAA**】
+* [百度-amis](https://github.com/baidu/amis) 【**AAAA** json配置一整套管理系统前端界面】
   * [Ovine](https://github.com/CareyToboo/ovine)：基于 amis 补全了路由、权限相关的组件
   * [爱速搭](https://suda.baidu.com/)
 * [唯品会-ams](https://github.com/vipshop/ams) 【**AAAA** 基于vue+ele+json配置一整套管理系统前端界面】
 * [vue-admin](https://github.com/jiangshanmeta/vue-admin) 【包含前后端，略复杂】
 * [鲁班 H5](https://github.com/ly525/luban-h5) 【**AAAA** H5页面大家】
-* [华炎魔方](https://github.com/steedos/steedos-platform/)
+* [华炎魔方](https://github.com/steedos/steedos-platform/) 【**AA** 前后端较全; 测试需要注册其账号; 未深入研究开源版完整情况】
   * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview) 
-* [h5-factory](https://github.com/yangyuji/h5-factory)
+* ~~[h5-factory](https://github.com/yangyuji/h5-factory)【演示项目存在bug】~~
   * [一个简单易用的电商活动页面生成系统](https://juejin.im/post/5cf328706fb9a07f042030f0)
-* [vision](https://github.com/tuoxiansp/vision)
-* [brick-design](https://github.com/brick-design/react-visual-editor)
-* [随心秀](https://github.com/lzuntalented/lz-h5-edit)
-* [yh5](https://github.com/qq15725/yh5)
-* [rxeditor](https://github.com/rxwater/rxeditor)
-* [activity-YD](https://github.com/vkcyan/activity-YD)
-* [layoutit](https://github.com/justjavac/layoutit)
-* [Ramiko](https://github.com/fantasticit/ramiko)
+* ~~[vision](https://github.com/tuoxiansp/vision)【star太少】~~
+* [brick-design](https://github.com/brick-design/react-visual-editor)【画布效果还可以; 演示项目存在bug】
+* ~~[随心秀](https://github.com/lzuntalented/lz-h5-edit)【演示项目存在bug】~~
+* ~~[yh5](https://github.com/qq15725/yh5)【star太少】~~
+* [rxeditor](https://github.com/rxwater/rxeditor) 【基于bootstrap；新版本基于react】
+* ~~[activity-YD](https://github.com/vkcyan/activity-YD)【star太少】~~
+* [layoutit](https://github.com/justjavac/layoutit) 【bootstrap 实现可视化布局】
+* ~~[Ramiko](https://github.com/fantasticit/ramiko)【star太少】~~
   * [使用 React 构建页面可视化搭建工具](https://www.v2ex.com/t/685143)
-* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot)
-* [sparrow-js](https://github.com/sparrow-js/sparrow)
+* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) 【整套项目代码】
+* ~~[sparrow-js](https://github.com/sparrow-js/sparrow) 【演示项目存在bug】~~
   * [实时输出前端代码，折腾大半年的开源项目 sparrow-js](https://www.v2ex.com/t/718505)
-* [Tefact](https://github.com/staringos/tefact): Tefact 轻量级无代码/低代码，H5、表单编辑器
-* [星搭](https://staringos.com): 星搭无代码平台，快速构建中后台、小程序
-* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero): 你不需要懂微服务，懂业务就行
-* [cube](https://github.com/fantasticit/cube)：快速搭建中后台页面
-* [react-visual-design](https://github.com/react-visual-design/react-visual-design): 基于react的h5组件搭建
-* [Web Designer](https://github.com/xiaoai7904/web_designer)
-* [h5maker](https://github.com/zhengguorong/h5maker)
-* [pl-drag-template](https://github.com/livelyPeng/pl-drag-template)
-* [form-generator](https://github.com/JakHuang/form-generator)：Element UI表单设计及代码生成器
-* [form-render](https://github.com/alibaba/form-render)：通过 JSON Schema 生成标准 Form，基于React
-* [Vue Json Design](https://github.com/fyl080801/vjdesign)
-* [rebuild](https://gitee.com/getrebuild/rebuild)
-* [W5 SOAR](https://github.com/w5teams/w5)
-* [Moria - Lowcode development platform](https://github.com/MudOnTire/moria)
-* [nocobase](https://github.com/nocobase/nocobase)
-* [Mall-Cook](https://github.com/wangyuan389/mall-cook)
-* [全象低代码平台渲染引擎 Artery Renderer](https://github.com/quanxiang-cloud/one-for-all/tree/main/packages/artery-renderer)
+* ~~[Tefact](https://github.com/staringos/tefact): Tefact 轻量级无代码/低代码，H5、表单编辑器 【演示项目需要注册】~~
+* ~~[星搭](https://staringos.com): 星搭无代码平台，快速构建中后台、小程序~~
+* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero): 你不需要懂微服务，懂业务就行 【**AA** 基于go; 根据定义的 api 文件生成web/Android等多端代码 】
+* ~~[cube](https://github.com/fantasticit/cube)：快速搭建中后台页面 【star太少】~~
+* ~~[react-visual-design](https://github.com/react-visual-design/react-visual-design): 基于react的h5组件搭建【star太少】~~
+* ~~[Web Designer](https://github.com/xiaoai7904/web_designer)【star太少】~~
+* ~~[h5maker](https://github.com/zhengguorong/h5maker)【star太少】~~
+* ~~[pl-drag-template](https://github.com/livelyPeng/pl-drag-template)【star太少】~~
+* [form-generator](https://github.com/JakHuang/form-generator)：Element UI表单设计及代码生成器 【Element UI表单设计】
+* [form-render](https://github.com/alibaba/form-render)：通过 JSON Schema 生成标准 Form，基于React 【阿里基于React; 类似将表单/表格元素再次封装成一个组件】
+* ~~[Vue Json Design](https://github.com/fyl080801/vjdesign)【star太少】~~
+* [rebuild](https://gitee.com/getrebuild/rebuild) 【代码框架】
+* [W5 SOAR](https://github.com/w5teams/w5) 【**AAA** 运维监控; 流程拖拽】
+* ~~[Moria - Lowcode development platform](https://github.com/MudOnTire/moria)【star太少】~~
+* [nocobase](https://github.com/nocobase/nocobase) 【**AA** 基于nodejs后端; 动态配置】
+* [Mall-Cook](https://github.com/wangyuan389/mall-cook) 【**AAA** 基于vue; 支持uni-app/H5/小程序; 偏向商城】
+* ~~[全象低代码平台渲染引擎 Artery Renderer](https://github.com/quanxiang-cloud/one-for-all/tree/main/packages/artery-renderer)【star太少】~~
 
 ---
 
